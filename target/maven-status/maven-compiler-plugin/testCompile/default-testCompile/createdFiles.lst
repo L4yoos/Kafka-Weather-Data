@@ -1,0 +1,3 @@
+org/example/performance/LoadTestConsumer.class
+org/example/utils/WeatherUtilsTest.class
+org/example/integration/KafkaIntegrationTest.class

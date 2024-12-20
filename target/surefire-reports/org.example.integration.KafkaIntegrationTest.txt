@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.integration.KafkaIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.25 s -- in org.example.integration.KafkaIntegrationTest
